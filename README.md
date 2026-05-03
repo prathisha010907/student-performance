@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analysis System using Machine Learning
+ https://github.com/silapal-portfolio/kongu-1-student-performance-analysis.git
 
 ##  Overview
 This project focuses on analyzing and predicting student performance using machine learning techniques. It helps in identifying patterns in student data, predicting outcomes, and grouping students based on their performance.
